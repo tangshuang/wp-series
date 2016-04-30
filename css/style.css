@@ -1,0 +1,13 @@
+.series-posts {
+}
+.series-posts-container,
+.series-posts-list {
+    max-height: 150px;
+    overflow-x: hidden;
+}
+.series-posts-list .item {
+    margin: 5px 0;
+}
+.series-posts-bar {
+    padding-top: 15px;
+}
